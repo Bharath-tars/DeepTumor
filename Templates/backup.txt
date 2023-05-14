@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<!-- SITE TITLE -->
+	<title>DeepTumor</title>
+
+	<!-- STYLESHEETS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="icon" href="../DeepTumor/images/logocir-removebg-preview.png"/><meta charset="UTF-8">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/templatemo-style.css">
+	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
+<!-- 
+
+Ultra Profile
+
+https://templatemo.com/tm-464-ultra-profile
+
+-->
+</head>
+<body data-spy="scroll" data-target="#rock-navigation">
+	<!-- START NAVIGATION -->
+	<div class="navbar navbar-default bs-dos-nav navbar-fixed-top sticky-navigation" role="navigation">
+		<div class="container">
+
+			<div class="navbar-header">
+				<button class="navbar-toggle" data-toggle="collapse" data-target="#rock-navigation">
+					<span class="icon icon-bar"></span>
+					<span class="icon icon-bar"></span>
+					<span class="icon icon-bar"></span>
+				</button>
+				<a href="#" class="navbar-brand">DeepTumor</a>
+			</div>
+			<nav class="collapse navbar-collapse" id="rock-navigation">
+				<ul class="nav navbar-nav navbar-right main-navigation text-uppercase">
+					<li><a href="#home" class="smoothScroll">Home</a></li>
+					<li><a href="#mission" class="smoothScroll">Mission</a></li>
+					<li><a href="#outcomes" class="smoothScroll">Outcomes</a></li>
+					<li><a href="#test" class="smoothScroll">Test</a></li>
+					<li><a href="#suits" class="smoothScroll">Suits</a></li>
+				</ul>
+			</nav>
+
+		</div>
+	</div>
+	<!-- END NAVIGATION -->
+
+	<!-- START HOME -->
+	<section id="home" class="templatemo-home">
+		<div class="container">
+			<div class="row">
+				
+					<h1 class="tm-home-title"><strong>DeepTumor</strong></h1>
+					<h2 class="tm-home-subtitle">In colab with <a href="https://www.linkedin.com/company/tars-ai"><strong>@Tars.Ai</strong></a></h2>
+					<p>Empowering healthcare professionals with <strong>Sustainable</strong> and <strong>Accurate</strong><br> Brain tumor detection through cutting edge <strong>Deep learning Technology</strong></p>
+					<a href="#work" class="btn btn-default smoothScroll tm-view-more-btn">Let's Predict</a>
+				
+			</div>
+		</div>
+	</section>
+	<!-- END HOME -->
+
+	<!-- START work -->
+	<section id="mission" class="tm-padding-top-bottom-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-11">
+					<h3 class="title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our <strong>Mission</strong></h3>			
+					<p>
+						DeepTumor is a comprehensive project aimed at revolutionizing the way brain tumors are diagnosed. The project consists of three distinct parts, each playing a crucial role in ensuring accurate and sustainable diagnosis.<br><br><br><br></p>			
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-database"></i>
+						<h3 class="text-uppercase tm-work-h3">Data Processing</h3>
+						<hr>
+						<p>Collecting and processing high-quality data images to train the deep learning model. It would involve to gather relevant patient data, ensuring the data is diverse and unbiased, and pre-processing the data to prepare it for deep learning.</p>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-code"></i>
+						<h3 class="text-uppercase tm-work-h3">Model Development</h3>
+						<hr>
+						<p>Developing and optimizing the deep learning model using TensorFlow. It would include selecting the most appropriate architecture, optimizing hyperparameters, and integrating advanced techniques such as transfer learning and data augmentation.</p>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-envelope-o"></i>
+						<h3 class="text-uppercase tm-work-h3">UI & Mail Integration</h3>
+						<hr>
+						<p>Developing a user-interface for users to interact with the model, as well as integrating the feature of sending output results via mail. It would involve developing features such as report generation and delivery via email or SMS.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END work -->
+
+	<!-- START PORTFOLIO -->
+	<section id="outcomes" class="tm-portfolio">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 wow bounce">
+					<div class="title">
+						<h1 class="tm-portfolio-title">The <strong>Outcomes</strong></h1>
+					</div>
+
+					<!-- START ISO SECTION -->
+					<div class="iso-section">
+
+						<div class="iso-box-section">
+							<div class="iso-box-wrapper col4-iso-box">
+								<div class="iso-box html photoshop wordpress mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (10).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Increased Accuracy</h3>
+											<p>DeepTumor has the potential to significantly increase the accuracy of brain tumor diagnosis.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box html wordpress mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (4).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Faster Diagnosis</h3>
+											<p>DeepTumor has the potential to deliver accurate diagnosis reports to healthcare providers within seconds.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box wordpress col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/image (16).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Improved patient outcomes</h3>
+											<p>DeepTumor has the potential to improve patient outcomes and quality of life.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box html mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (5).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Sustainability</h3>
+											<p> DeepTumor is designed with sustainability in mind, using high-quality data.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box wordpress col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (6).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Increased accessibility</h3>
+											<p>DeepTumor has the potential to increase accessibility to accurate brain tumor diagnosis.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box html photoshop col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (7).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Integration with existing healthcare systems</h3>
+											<p>DeepTumor can be integrated with existing healthcare systems.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box photoshop col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (8).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Potential for further research</h3>
+											<p> The DeepTumor project can serve as a platform for further research into the diagnosis.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box wordpress col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/nextset/My project (9).png" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Economic benefits</h3>
+											<p>DeepTumor has the potential to provide significant cost savings for healthcare providers and patients.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END PORTFOLIO -->
+<!-- START CONTACT -->
+<section id="test" class="tm-contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">					
+				<h2 class="title"><br>Let's <strong>get Tested!</strong></h2>
+				<p>DeepTumor is a brain tumor segmentation and classification project aimed at developing a deep learning model with over 1 million parameters using TensorFlow. Our model will be powered by fresh data images and optimized for accuracy and efficiency. We will employ green computing practices to ensure that our model contributes to Sustainability. One of the key features of DeepTumor is the development of a User Interface that enables easy interaction with the model. Users will be able to input patient details, and within seconds, the system will generate reports on tumor detection and classification. These reports will be delivered via email or SMS for user convenience.</p>
+				<hr>					
+			</div>
+			<div class="col-md-1 col-sm-1"></div>
+			<div class="col-md-10 col-sm-10">
+				<form action="#" method="post">
+				  <div class="col-md-6 col-sm-6">
+					<input class="form-control" type="text" placeholder="Your Name">
+				  </div>
+				  <div class="col-md-6 col-sm-6">
+					<input class="form-control" type="email" placeholder="Your Email">
+				  </div>
+				  <div class="col-md-12 col-sm-12">
+					<input class="form-control" type="file" name="image" accept="image/*">
+					<textarea class="form-control" placeholder="Your Message" rows="6"></textarea>
+				  </div>
+				  <div class="col-md-offset-2 col-md-8 col-sm-offset-2 col-sm-8">
+					<input class="form-control" type="submit" value="SHOOT REPORTS">
+				  </div>
+				</form>
+			  </div>
+			<div class="col-md-1 col-sm-1"></div>
+		</div>
+	</div>
+</section>
+<!-- END CONTACT -->
+<!-- START ABOUT -->
+<section id="about" class="tm-about">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-6 col-md-6 col-sm-offset-6 col-sm-7">
+
+			</div>
+		</div>
+	</div>
+</section>
+<!-- END ABOUT -->
+	<!-- START RESUME -->
+	<section id="suits" class="tm-padding-top-bottom-100">
+		<div class="container">
+			<div class="row">
+						 <h4 class="tm-contact-title">Copyright &copy;<strong> Suit Mavericks</strong></h4>
+                     <h2 class="tm-contact-title-pro">Made with 🫶🏼 to 🌍 by <a href="http://github.com/bharath-tars" target="_parent">Bharath</a> - Pooja - Saikumar - Karthik</h2>
+					 <h4 class="tm-contact-title"><a href="https://sustanifyc53.netlify.app" class="btn btn-default smoothScroll tm-view-more-btn" target="_blank">Go Sustainable</a></h4>
+	
+			</div>
+		</div>
+	</section>
+	<!-- END RESUME -->
+
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<script src="js/jquery.nav.js"></script>
+	<script src="js/isotope.js"></script>
+	<script src="js/imagesloaded.min.js"></script>
+	<script src="js/custom.js"></script>
+</body>
+</html>
