@@ -1,7 +1,7 @@
 import smtplib
 
-my_email = "tars4real@gmail.com"
-my_pass = "zgxaxchbktenppar"
+my_email = "your mail"
+my_pass = "your auth key"
 
 
 def shoot_mail(file_url, name,email,phoneno,filename):
