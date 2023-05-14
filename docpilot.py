@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 from mail import shoot_mail
 
-docupilot_api_key = "b451c83b"
-template_id = "a072630d"
+docupilot_api_key = "your key"
+template_id = "your template id"
 
 
 def boost_report(name, email, phoneno, filename):
