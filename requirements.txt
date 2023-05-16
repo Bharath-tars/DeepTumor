@@ -1,5 +1,5 @@
 Flask
-Gunicorn
+gunicorn==20.1.0
 requests==2.26.0
 openpyxl==3.0.9
 smtplib==23.1.2
