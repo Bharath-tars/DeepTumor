@@ -1,4 +1,4 @@
-from databaselink import append_to_excel
+# from databaselink import append_to_excel
 def sno():
     with open('lastcode', 'r') as lt:
         no = int(lt.readline())
