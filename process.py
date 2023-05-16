@@ -1,4 +1,3 @@
-# from databaselink import append_to_excel
 def sno():
     with open('lastcode', 'r') as lt:
         no = int(lt.readline())
@@ -12,5 +11,4 @@ def sno():
 
 
 def save_file(name, email, phoneno, dob, message, ID,file_url):
-#     append_to_excel(id=ID, name=name, email=email, phno=phoneno, dob=dob, message=message, file_url=file_url)
       pass
