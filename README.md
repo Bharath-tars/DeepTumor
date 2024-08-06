@@ -18,7 +18,7 @@ iii.	Personalized treatment planning: Brain tumors can vary in size, location, a
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
-2. Clone the repository to your local machine using `git clone https://github.com/your-username/Azure-Cognitive-Services_Sentiment-Analysis.git`.
+2. Clone the repository to your local machine using `git clone https://github.com/your-username/DeepTumor.git`.
 3. Create a new branch with a descriptive name using `git checkout -b branch-name`.
 4. Make your changes and commit them with a descriptive commit message using `git commit -m "your message here"`.
 5. Push your changes to your forked repository using `git push origin branch-name`.
